@@ -251,7 +251,7 @@ class dna_tool_sets ():
 
 if __name__ == "__main__":
 
-    file_name = "C:/Users/Xpertnoob/Documents/Coursera/GenomicDataScience/3_Python/FinalExam/dna2.fasta"
+    file_name = "C:/Users/Ankur/Documents/DataScience/dna2.fasta"
     dna_tools = dna_tool_sets (file_name)
     #  How many records are in the multi-FASTA file?
     dna_tools.count_records()
